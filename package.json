@@ -1,0 +1,24 @@
+{
+  "name": "transpilify",
+  "version": "0.0.0",
+  "description": "A node.js library that translates configs into a proper ETL pipeline.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hubba/transpilify.git"
+  },
+  "keywords": [
+    "etl",
+    "datapumps",
+    "cli"
+  ],
+  "author": "Leah Spontaneo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hubba/transpilify/issues"
+  },
+  "homepage": "https://github.com/hubba/transpilify#readme"
+}
