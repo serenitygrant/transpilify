@@ -20,5 +20,15 @@
   "bugs": {
     "url": "https://github.com/hubba/transpilify/issues"
   },
-  "homepage": "https://github.com/hubba/transpilify#readme"
+  "homepage": "https://github.com/hubba/transpilify#readme",
+  "dependencies": {
+    "datapumps": "^0.5.1",
+    "gulp": "^3.9.1",
+    "gulp-help": "^1.6.1",
+    "gulp-util": "^3.0.8"
+  },
+  "devDependencies": {
+    "expect.js": "^0.3.1",
+    "mocha": "^3.2.0"
+  }
 }
